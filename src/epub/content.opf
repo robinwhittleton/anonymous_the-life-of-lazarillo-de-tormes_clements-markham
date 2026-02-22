@@ -59,6 +59,7 @@
 		<meta property="se:name.person.full-name" refines="#translator">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Clements_Markham</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n80069018</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">ill</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Théodule Ribot</dc:contributor>
 		<meta property="file-as" refines="#artist">Ribot, Théodule</meta>
