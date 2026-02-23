@@ -64,6 +64,7 @@
 		<meta property="se:name.person.full-name" refines="#translator">Sir Clements Robert Markham</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Clements_Markham</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n80069018</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">ill</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">win</meta>
@@ -92,6 +93,7 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">wat</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
