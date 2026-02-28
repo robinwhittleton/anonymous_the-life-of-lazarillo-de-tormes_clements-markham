@@ -3,7 +3,6 @@
 @namespace xml "http://www.w3.org/XML/1998/namespace";
 
 blockquote[xml|lang],
-dfn,
 q{
 	font-style: italic;
 }
